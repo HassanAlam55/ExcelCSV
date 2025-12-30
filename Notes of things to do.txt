@@ -1,1 +1,3 @@
 Notes of things to do
+have variable beta and alph
+beta and alpha derived from real data.
