@@ -2,6 +2,11 @@ Notes of things to do
 have variable beta and alph
 beta and alpha derived from real data.
 need to use non_extneded columns
+    do hybrid skip  ahead in no crash.
+    other steps in data prep that we skipped. 
+    the labels code has  lower case date change that.
+    time variant alpha beta - initially just use constant alpha and beta. redo with compute. 
+
 Approach: 
     1. Multi-Class Drawdown Classifier with Multi-Horizon Validation for Drawdown
     2. Model 2: Crash Prediction (Override)
@@ -20,3 +25,5 @@ to calcluate:
         Spread Velocity: ~10-15%
     Phase 2: If You Need to Optimize
         Use weighted F1 grid search:    
+
+Doing Simplest model to create prediction colums
