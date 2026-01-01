@@ -2,3 +2,21 @@ Notes of things to do
 have variable beta and alph
 beta and alpha derived from real data.
 need to use non_extneded columns
+Approach: 
+    1. Multi-Class Drawdown Classifier with Multi-Horizon Validation for Drawdown
+    2. Model 2: Crash Prediction (Override)
+With Multi-Class Drawdown  
+    2 d matrix with drawdown and hulit-Horizon
+    Initially do binary
+    probalbity if binary does not work.
+to calcluate:
+    Phase 1: Use Your Current Empirical Weights
+        You mentioned you already have weights based on crash prediction:
+
+        HY Spread: 32%
+        Yield Curve: 29%
+        Market Breadth: ~15-20%
+        CAPE: ~10-15%
+        Spread Velocity: ~10-15%
+    Phase 2: If You Need to Optimize
+        Use weighted F1 grid search:    
