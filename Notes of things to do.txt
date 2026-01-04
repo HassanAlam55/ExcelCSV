@@ -27,3 +27,7 @@ to calcluate:
         Use weighted F1 grid search:    
 
 Doing Simplest model to create prediction colums
+
+Created combined simulated portfolio and now to do simualton of how to hedge.
+
+looks like doing short term spyputs during the drawwdown...
