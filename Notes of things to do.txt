@@ -31,3 +31,7 @@ Doing Simplest model to create prediction colums
 Created combined simulated portfolio and now to do simualton of how to hedge.
 
 looks like doing short term spyputs during the drawwdown...
+
+Need to simulate option prices with SPX, VIX, and risk free rate.
+
+Need to visualize predictions
