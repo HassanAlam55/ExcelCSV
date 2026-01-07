@@ -35,3 +35,13 @@ looks like doing short term spyputs during the drawwdown...
 Need to simulate option prices with SPX, VIX, and risk free rate.
 
 Need to visualize predictions
+
+Right now not predicting downturs or detectecing them. 
+Need to fix them. 
+
+predicting time horzion, drawown and likelihoo matrix
+Alternatives
+    1. Random Forrest vs elastic 
+    2. universal weights vs time horizon base weights
+First pass elastic net with universal weights. 
+Modify with time horizon or Random Forrest if appoach does not work. 
