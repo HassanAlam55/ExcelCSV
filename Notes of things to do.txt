@@ -30,7 +30,7 @@ Doing Simplest model to create prediction colums
 
 Created combined simulated portfolio and now to do simualton of how to hedge.
 
-looks like doing short term spyputs during the drawwdown...
+looks like doing short term spyputs during the draw down...
 
 Need to simulate option prices with SPX, VIX, and risk free rate.
 
@@ -39,9 +39,11 @@ Need to visualize predictions
 Right now not predicting downturs or detectecing them. 
 Need to fix them. 
 
-predicting time horzion, drawown and likelihoo matrix
+predicting time horzion, drawdown and likelihood matrix
 Alternatives
     1. Random Forrest vs elastic 
     2. universal weights vs time horizon base weights
+    3. Muliple walk forwards in a future time. 
 First pass elastic net with universal weights. 
-Modify with time horizon or Random Forrest if appoach does not work. 
+Modify with time horizon or Random Forrest if approach does not work. 
+
