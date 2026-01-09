@@ -36,6 +36,7 @@ Need to simulate option prices with SPX, VIX, and risk free rate.
 
 Need to visualize predictions
 
+
 Right now not predicting downturs or detectecing them. 
 Need to fix them. 
 
@@ -47,3 +48,4 @@ Alternatives
 First pass elastic net with universal weights. 
 Modify with time horizon or Random Forrest if approach does not work. 
 
+need to contineu it
