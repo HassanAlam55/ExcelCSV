@@ -49,3 +49,8 @@ First pass elastic net with universal weights.
 Modify with time horizon or Random Forrest if approach does not work. 
 
 need to contineu it
+
+preciions = 0.27 and recall = 1. means biased sample
+Need to fix. 
+now recall is lo  z scores need to be recompute
+other alternatives
