@@ -54,3 +54,27 @@ preciions = 0.27 and recall = 1. means biased sample
 Need to fix. 
 now recall is lo  z scores need to be recompute
 other alternatives
+
+I am using rolling z, so that's not a problem
+no predictive outcome.
+Going to change all scores to positive to see if that changes anything.
+
+making positive worked
+Now check random forest or other methods
+othersiwe try opimization with these results.
+
+other features to try
+
+Consider adding:
+
+VIX (volatility) - Direct fear gauge
+Put/Call ratio - Options market sentiment
+MOVE index - Bond market volatility
+Credit card delinquencies - Consumer stress (leading indicator)
+Momentum indicators - RSI, MACD for S&P 500
+Cross-asset correlations - Stock-bond correlation changes
+
+Going to download all 4 separately
+Combine them
+Do first order for daily and quarterly
+do z scores for all. 
