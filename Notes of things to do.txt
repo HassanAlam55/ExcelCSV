@@ -82,3 +82,5 @@ for RSI/MACD we can do with spx data
     remember to do ahta. 
 
     working on combining data
+
+need to combine new downloads with raw data all
