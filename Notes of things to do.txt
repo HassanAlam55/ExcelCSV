@@ -84,3 +84,5 @@ for RSI/MACD we can do with spx data
     working on combining data
 
 need to combine new downloads with raw data all
+ will need to update furter
+ 
