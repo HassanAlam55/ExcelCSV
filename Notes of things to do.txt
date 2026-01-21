@@ -89,3 +89,5 @@ need to combine new downloads with raw data all
  creadted readme to trackk in put ouput
  excel files combined
  file name in markdown MarketPredReadme.md
+ will work on it today
+ 
