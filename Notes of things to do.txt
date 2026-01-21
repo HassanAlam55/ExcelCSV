@@ -85,4 +85,7 @@ for RSI/MACD we can do with spx data
 
 need to combine new downloads with raw data all
  will need to update furter
- 
+
+ creadted readme to trackk in put ouput
+ excel files combined
+ file name in markdown MarketPredReadme.md
