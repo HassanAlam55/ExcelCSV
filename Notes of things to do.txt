@@ -92,3 +92,13 @@ need to combine new downloads with raw data all
  will work on it today
  did not get time again
  starting again
+
+for IEF dont need all data  - use ief close only and in analysis use the pct change and zscore for that
+ Calculate IEF daily returns: ief_returns = IEF_Close.pct_change()
+Calculate SPX daily returns: spx_returns = SPX_Close.pct_change()
+Rolling correlation: correlation = spx_returns.rolling(60).corr(ief_returns)
+
+
+next to do, i s modify process_market_data to:
+    1. read columns dynamically
+    2. compute as describe above  for IEF.
