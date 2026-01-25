@@ -102,3 +102,5 @@ Rolling correlation: correlation = spx_returns.rolling(60).corr(ief_returns)
 next to do, i s modify process_market_data to:
     1. read columns dynamically
     2. compute as describe above  for IEF.
+
+    need to verify output and then develop model
