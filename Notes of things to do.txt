@@ -104,3 +104,5 @@ next to do, i s modify process_market_data to:
     2. compute as describe above  for IEF.
 
     need to verify output and then develop model
+
+next chec output file and then experimeint with model
