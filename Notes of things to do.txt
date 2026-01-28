@@ -108,3 +108,5 @@ next to do, i s modify process_market_data to:
 next chec output file and then experimeint with model
 working on it.
 still working on it. 
+
+next step take modify the funciton that takes process_market_data output and does predictions
