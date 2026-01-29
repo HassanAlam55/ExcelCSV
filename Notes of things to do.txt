@@ -109,4 +109,11 @@ next chec output file and then experimeint with model
 working on it.
 still working on it. 
 
-next step take modify the funciton that takes process_market_data output and does predictions
+next step take modify the function that takes process_market_data output and does predictions
+
+MarketCrashBackTest/cell 61 see how Raw_Inputs_All.csv is used because need to figure out the output and how it is used to 
+    creates real_data.csv and nonoverlap_labels becuase it seems to overlap with processed_mkt_data_features.csv
+
+    in MarketCrashBackTest/cell 62, code reararranges Raw_Inputs_all.csv to propper columsn and then then generates labels for crashes based on price_col
+    Things to do: 1. see how to replace that with all_market_data.csv. 2. do we do z_scores before or after doing labels for crashes. 
+ 
