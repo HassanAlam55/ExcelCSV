@@ -116,4 +116,6 @@ MarketCrashBackTest/cell 61 see how Raw_Inputs_All.csv is used because need to f
 
     in MarketCrashBackTest/cell 62, code reararranges Raw_Inputs_all.csv to propper columsn and then then generates labels for crashes based on price_col
     Things to do: 1. see how to replace that with all_market_data.csv. 2. do we do z_scores before or after doing labels for crashes. 
+
+    TBD
  
