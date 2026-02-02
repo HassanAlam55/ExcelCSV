@@ -118,4 +118,4 @@ MarketCrashBackTest/cell 61 see how Raw_Inputs_All.csv is used because need to f
     Things to do: 1. see how to replace that with all_market_data.csv. 2. do we do z_scores before or after doing labels for crashes. 
 
     TBD
- 
+ will need to work in predicting crash. do I use sample download
