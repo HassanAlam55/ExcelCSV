@@ -120,3 +120,5 @@ MarketCrashBackTest/cell 61 see how Raw_Inputs_All.csv is used because need to f
 labelling done on score files input processed_mkt_data_features.csv in MarketCrashBackTest.ipynb
 output is to 'nonoverlap_labels.csv' in './Output/crash_labels'
 need to make model now
+claude code in Empirical weights optimization outline function is generate_drawdown_predictions
+got data out. now to make model
