@@ -122,3 +122,5 @@ output is to 'nonoverlap_labels.csv' in './Output/crash_labels'
 need to make model now
 claude code in Empirical weights optimization outline function is generate_drawdown_predictions
 got data out. now to make model
+new data does not improve results.
+Explore alternative models
