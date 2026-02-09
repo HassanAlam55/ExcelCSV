@@ -124,3 +124,14 @@ claude code in Empirical weights optimization outline function is generate_drawd
 got data out. now to make model
 new data does not improve results.
 Explore alternative models
+
+Next try in order
+    1. Random forest
+    2. XG Boost
+    3. Ensemble Approach
+    4. Two stage smethod (in the same chat that has random forest and xgboos as options)
+
+    radforest, xgoost give similar results to the previous method.
+    Now to try ensemble approach
+    and then two stage
+    the the modifications suggested.  in the preivious menthod
