@@ -137,3 +137,4 @@ Next try in order
     the the modifications suggested.  in the preivious menthod
     claude suggested logistic regression.
     will look at results.s
+    try logistic regress
