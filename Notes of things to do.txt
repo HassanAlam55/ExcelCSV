@@ -138,3 +138,4 @@ Next try in order
     claude suggested logistic regression.
     will look at results.s
     try logistic regress
+    done two stage ensembled. - need to examines
