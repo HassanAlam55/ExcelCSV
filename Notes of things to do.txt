@@ -139,4 +139,5 @@ Next try in order
     will look at results.s
     try logistic regress
     done two stage ensembled. - need to examines
-    got results, not to run simulations
+    got results, not to run simulations 
+    try today
