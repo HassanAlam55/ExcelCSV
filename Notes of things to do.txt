@@ -150,3 +150,7 @@ Next try in order
     found some more papers
     hard to understand Prof's paper 130 pages, no data sources found yet. 
     created code to backtest. 
+    adjusted generate_drawdown_predictions_ensemble to save to file without datestamp
+     file name is drawdown_2stage_addsim'
+     ran backtest. Did not pick up two downturns that dominated
+     need to fix that
