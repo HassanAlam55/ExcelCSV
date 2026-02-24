@@ -154,3 +154,4 @@ Next try in order
      file name is drawdown_2stage_addsim'
      ran backtest. Did not pick up two downturns that dominated
      need to fix that
+     working on fixing data gaps
