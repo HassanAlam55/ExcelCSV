@@ -155,3 +155,4 @@ Next try in order
      ran backtest. Did not pick up two downturns that dominated
      need to fix that
      working on fixing data gaps
+     debugging error in prediction. 
