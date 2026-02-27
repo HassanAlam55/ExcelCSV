@@ -157,3 +157,5 @@ Next try in order
      working on fixing data gaps
      debugging error in prediction. 
      fixed 2008, need to verify
+     ran the code not to run end to end is it over fitting 
+     then work on 202
