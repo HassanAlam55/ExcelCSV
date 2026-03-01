@@ -159,3 +159,4 @@ Next try in order
      fixed 2008, need to verify
      ran the code not to run end to end is it over fitting 
      then work on 202
+     skipped a day
