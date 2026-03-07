@@ -165,3 +165,5 @@ Next try in order
     finally have time to look into it
     seem to have got probablities on all downturns. 
     will try today again
+    got it done, but results are not as much as expected.
+    
