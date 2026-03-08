@@ -166,4 +166,14 @@ Next try in order
     seem to have got probablities on all downturns. 
     will try today again
     got it done, but results are not as much as expected.
-    
+
+    redoing heding with prob. This is the error I get:
+    run_hedge_backtest v2.2 — 2026-03-08 11:42:23
+            Loaded 10,736 rows  |  1996-01-01 → 2026-01-23
+            WARNING: conviction_probability not found — falling back to ensemble_probability
+            WARNING: model_std not found — uncertainty veto disabled for this run
+            WARNING: prob_upper/prob_lower not found — lower-bound sizing disabled for this run
+            HY level override   : 0 days (hy_spread ≥ 999%)
+            HY delta override   : 0 days (hy_spread_delta ≥ None)
+            Uncertainty vetoed  : 0 days suppressed (model_std > 0.2)
+            Hedge triggered on  : 568 days (5.3% of history)
