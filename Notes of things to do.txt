@@ -177,3 +177,5 @@ Next try in order
             HY delta override   : 0 days (hy_spread_delta ≥ None)
             Uncertainty vetoed  : 0 days suppressed (model_std > 0.2)
             Hedge triggered on  : 568 days (5.3% of history)
+
+   need to read paper and see if I can find someting
