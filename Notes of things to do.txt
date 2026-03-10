@@ -179,3 +179,5 @@ Next try in order
             Hedge triggered on  : 568 days (5.3% of history)
 
    need to read paper and see if I can find someting
+   will use claude with longer context 
+   see how to use longer and short context to see what we get
