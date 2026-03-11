@@ -181,3 +181,4 @@ Next try in order
    need to read paper and see if I can find someting
    will use claude with longer context 
    see how to use longer and short context to see what we get
+   try to work from the plane
