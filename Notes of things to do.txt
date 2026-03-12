@@ -182,3 +182,5 @@ Next try in order
    will use claude with longer context 
    see how to use longer and short context to see what we get
    try to work from the plane
+    in healthrwo, hofully transition will go smoothly
+    
