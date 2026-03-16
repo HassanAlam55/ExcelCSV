@@ -183,4 +183,5 @@ Next try in order
    see how to use longer and short context to see what we get
    try to work from the plane
     in healthrwo, hofully transition will go smoothly
+    did nothing for weekend
     
