@@ -187,3 +187,4 @@ Next try in order
     downloaded data
     next to analzye it
     downloading more
+    need to fred files
