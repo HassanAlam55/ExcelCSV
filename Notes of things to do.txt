@@ -204,3 +204,4 @@ Next try in order
     on friday.
     on friday evening
     starting download
+    downloaded fred
