@@ -213,3 +213,4 @@ sent request to get warton data
 got accepted from wrds
 working on combniing pdfs now
 today will work on getting files
+wrds was in a long loop, stopped, changed dates. still running
