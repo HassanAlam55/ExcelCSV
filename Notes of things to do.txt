@@ -215,3 +215,4 @@ working on combniing pdfs now
 today will work on getting files
 wrds was in a long loop, stopped, changed dates. still running
 tomorrow try to fix it. 
+going try looping fix. 
