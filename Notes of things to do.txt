@@ -226,3 +226,4 @@ now to create consolidated data. fields dont match
 working item
 created spine, now to add other items
 adding gspc 
+just set up paths, now to verify headers and write code
