@@ -228,4 +228,5 @@ created spine, now to add other items
 adding gspc 
 just set up paths, now to verify headers and write code
 got spx and vix into dataset
-working on dividents
+working on dividends
+added dividends
