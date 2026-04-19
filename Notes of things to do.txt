@@ -230,3 +230,4 @@ just set up paths, now to verify headers and write code
 got spx and vix into dataset
 working on dividends
 added dividends
+not to add last items
