@@ -231,3 +231,4 @@ got spx and vix into dataset
 working on dividends
 added dividends
 not to add last items
+items added, now to duplicate bear market
