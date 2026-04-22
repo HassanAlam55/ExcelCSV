@@ -234,3 +234,4 @@ not to add last items
 items added, now to duplicate bear market
 got data combined, now to run simulations
 ran in to memory issues. 
+done with smaller file
