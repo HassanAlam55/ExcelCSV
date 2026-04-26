@@ -238,3 +238,5 @@ done with smaller file
 now next step in 
 did this: 
     compute_vw_prices(chain, K1, K2, sigma)Step 4Clean chain + targets
+
+Will try next step
