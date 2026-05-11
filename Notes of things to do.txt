@@ -252,3 +252,4 @@ going to take some time to work on it today
 data incompatabilty.
 compute excess return done
 working on aggregate_monthly
+full pipeline one, now to compare results
