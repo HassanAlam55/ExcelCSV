@@ -254,3 +254,5 @@ compute excess return done
 working on aggregate_monthly
 full pipeline one, now to compare results
 worked on recovering laptop
+recovered laptop
+also cheryl got graph work 
