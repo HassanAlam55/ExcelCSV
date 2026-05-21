@@ -261,3 +261,4 @@ will see what we can do
 poetry did not work
 got full instructions
 got it working
+up and running now need to test.
