@@ -266,3 +266,4 @@ got it running
 need to test 2nd code 
 still working on proposal
 timezones out of awack
+found example of awacs operator
