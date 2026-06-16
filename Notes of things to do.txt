@@ -282,3 +282,5 @@ working on nsf pitch
 sections 1 and 2 of pit done
 work on section 3 and 4
 done 2 revs, now t osubmet
+fixed nsf pitch as much as I could including looking at failure of last one.
+if this doesnt get accepted, maybe nee to chang PI. 
