@@ -287,3 +287,4 @@ if this doesnt get accepted, maybe nee to chang PI.
 need to figure out how to run code on my system
 go tcode for cheryl
 got code running
+stil looking at code
