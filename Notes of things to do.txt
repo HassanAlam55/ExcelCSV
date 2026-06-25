@@ -288,3 +288,5 @@ need to figure out how to run code on my system
 go tcode for cheryl
 got code running
 stil looking at code
+still working. still need to stopc.
+was a long day and slept trhough
