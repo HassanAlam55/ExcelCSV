@@ -285,6 +285,10 @@ done 2 revs, now t osubmet
 fixed nsf pitch as much as I could including looking at failure of last one.
 if this doesnt get accepted, maybe nee to chang PI. 
 need to figure out how to run code on my system
-go tcode for cheryls
-still on proposal got lot done for fellowship
-finished writing to ifc
+go tcode for cheryl
+got code running
+stil looking at code
+still working. still need to stopc.
+was a long day and slept trhough
+still working on proposal
+finished to ifc
