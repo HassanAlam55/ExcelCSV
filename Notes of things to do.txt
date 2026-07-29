@@ -309,3 +309,10 @@ started darpa
 workig on website for product launch
 did darpa doce v.1.0.2. 
 working on html and arap
+got husins code workiking
+one file has problems
+    need requirement.txt andyml
+    sample code
+        how to get
+        how to intiegrate into OPENAI, Claude, Gemini.
+Working on darpa
