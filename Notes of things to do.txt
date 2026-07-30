@@ -316,3 +316,4 @@ one file has problems
         how to get
         how to intiegrate into OPENAI, Claude, Gemini.
 Working on darpa
+did not get nsf funds :(
