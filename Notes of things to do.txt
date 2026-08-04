@@ -317,3 +317,4 @@ one file has problems
         how to intiegrate into OPENAI, Claude, Gemini.
 Working on darpa
 did not get nsf funds :(
+working on darap proposal
