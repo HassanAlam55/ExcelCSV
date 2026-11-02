@@ -382,3 +382,5 @@ found place to practice coding
 submitted nsff
 found stand DAF IO
 started mit class
+got api
+working on classification
