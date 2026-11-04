@@ -385,3 +385,4 @@ started mit class
 got api
 working on classification
 darpa got denied. a bummer. but not a refudiation
+workingon display it will show only tiff. 
