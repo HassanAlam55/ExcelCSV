@@ -388,3 +388,5 @@ darpa got denied. a bummer. but not a refudiation
 workingon display it will show only tiff. 
 working on pages
 still working on pages
+working on getting slugs
+got slugs done for wmaster
