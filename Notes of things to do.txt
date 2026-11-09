@@ -391,3 +391,5 @@ still working on pages
 working on getting slugs
 got slugs done for wmaster
 cleaned room
+got code for mit rag class working. 
+now just to put correct prompts
