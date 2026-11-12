@@ -394,3 +394,4 @@ cleaned room
 got code for mit rag class working. 
 now just to put correct prompts
 got labelling web site on laptop
+got pdf to markdown testxted
