@@ -398,3 +398,4 @@ got pdf to markdown testxted
 got class code working. 
 got question answered
 listend to sbir it is about education
+course did not cover question generation. 
