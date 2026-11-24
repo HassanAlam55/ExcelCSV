@@ -402,3 +402,4 @@ course did not cover question generation.
 working on shrinking pdfs
 got pdf shrunk
 got items to priyanak
+working
